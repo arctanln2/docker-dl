@@ -1,0 +1,4 @@
+ddp-mnist/logs
+ddp-mnist/data
+sig-mnist/data
+sig-mnist/logs
